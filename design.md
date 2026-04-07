@@ -12,7 +12,7 @@
 🌟 A short and **engaging** description of your project.  
 💡 Clearly explain its purpose and why it's useful!  
 
-## 👌 Describe
+## 👌 Describe.
 ✔ A short and  and  describe.
 
 ✔ CLearing ..
