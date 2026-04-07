@@ -44,3 +44,12 @@ npm install
 
 # Start the project
 npm start
+
+---
+
+```bash
+ls -lah
+pwd
+copy . .
+whoami
+
