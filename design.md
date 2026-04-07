@@ -13,7 +13,6 @@
 💡 Clearly explain its purpose and why it's useful!  
 
 ## 👌 Describe
-
 ✔ A short and  and  describe.
 ✔ CLearing ..
 
