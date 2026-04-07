@@ -7,7 +7,6 @@
 </p>
 
 ---
----
 
 ## 📌 Description  
 🌟 A short and **engaging** description of your project.  
